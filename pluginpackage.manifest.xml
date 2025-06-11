@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginPackage xmlns="http://www.sdl.com/Plugins/PluginPackage/1.0">
+  <PlugInName>DtranxTranslationProvider</PlugInName>
+  <Version>1.0.0.0</Version>
+  <Description>数译LanMT机器翻译——提供高质量机翻服务</Description>
+  <Author></Author>
+  <RequiredProduct name="SDLTradosStudio" minversion="16.0" />
+	<Include>
+		<File>Newtonsoft.Json.dll</File>
+	</Include>
+</PluginPackage>
